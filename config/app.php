@@ -13,11 +13,11 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'PASudOuest '),
+    'name' => env('APP_NAME', 'PASudOuest 1'),
     'longname' => env('APP_LONGNAME', 'Plan d\'action - Suivi de mandats'),
     'publisher' => env('APP_PUBLISHER', 'AEfika'),
 
-    /*
+    /*  
     |--------------------------------------------------------------------------
     | Application Environment
     |--------------------------------------------------------------------------
